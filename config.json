@@ -1,8 +1,8 @@
 {
-    "SONARR_API_URL": "http://your-sonarr-url",
-    "SONARR_API_KEY": "your-sonarr-api-key",
-    "RADARR_API_URL": "http://your-radarr-url",
-    "RADARR_API_KEY": "your-radarr-api-key",
-    "API_TIMEOUT": 600,
-    "STRIKE_COUNT": 5
+  "SONARR_API_URL": "http://192.168.1.74:7092/",
+  "SONARR_API_KEY": "5d5e206799de4e65b4e7c249aa7a0591",
+  "RADARR_API_URL": "http://192.168.1.74:7091/",
+  "RADARR_API_KEY": "54b1cd9cd6704071a9d22915647d7f96",
+  "API_TIMEOUT": 600,
+  "STRIKE_COUNT": 5
 }
